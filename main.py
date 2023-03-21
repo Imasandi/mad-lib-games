@@ -19,4 +19,5 @@ print("We were listening to " + song + " all the way down.")
 print(" When we got there, I smelled " + food + " has being cooked. It smells like " + smell + ".")
 print(" I " + verb +" in the room where I was staying with my " + noun + " The next thing I knew was that I was " + feeling + ".")
 print("But I was very happy because I am with my " + noun + ".")
-
+print("Suddernly my Mom came to the room where we rested, out of no where and ask us to the lunch. At that moment I woke up and ralised I was just dreaming. There was no one with me.")
+print("I was all alone! sleeping on my own bed dreaming on camping with my favourite person.")
